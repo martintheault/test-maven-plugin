@@ -10,7 +10,7 @@
     </developers>
     <groupId>test-maven.plugin</groupId>
     <artifactId>testmaven</artifactId>
-    <version>1.0-myFeature2-SNAPSHOT</version>
+    <version>3.2-myFeature2-SNAPSHOT</version>
     <build>
         <plugins>
             <plugin>
