@@ -6,7 +6,7 @@
 
     <groupId>test-maven.plugin</groupId>
     <artifactId>testmaven</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-ppapa-SNAPSHOT</version>
     <build>
         <plugins>
             <plugin>
